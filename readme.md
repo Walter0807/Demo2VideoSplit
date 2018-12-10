@@ -1,4 +1,4 @@
-# SpeechDivider👨‍🏫👩‍🏫📹
+# Lecture-Divider👨‍🏫👩‍🏫📹
 
 This is the second part of a final project for the freshmen course "Introduction to Computing"(Honor Track). The project mainly focused on image processing using OpenCV.
 
